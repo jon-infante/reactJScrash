@@ -1,3 +1,9 @@
+# Quick Run
+
+### 'npm start'
+
+### 'npm run server [run alongside for backend]'
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
